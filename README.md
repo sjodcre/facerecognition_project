@@ -1,3 +1,8 @@
+# Face Recognition Project
+A project developed based on the course [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+
+[Server script](https://github.com/sjodcre/create_server) is splitted away from the front-end, to project real world scenario where the front-end, server and database will be on different machines.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
